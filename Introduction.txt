@@ -1,0 +1,16 @@
+# What is a Tier?
+# Why do software applications have different tiers? What is the need for them?
+# How do I decide how many tiers should my application have?
+
+
+## What is A Tier?
+    - Logical Sepration of components in an aplication or a service.
+    What are Components:
+        Database
+        Backend application server
+        User Interface
+        Messaging
+        Caching
+    
+
+
